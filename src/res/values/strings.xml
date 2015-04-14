@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">python for android</string>
+    <string name="app_name">PYenx</string>
+	<string name="inst">安装</string>
+	<string name="toas">安装完成</string>
+	<string name="toaserr">安装出错</string>
+	<string name="know">
+		\n
+		·PYenx是一个纯净、极简的Python环境安装器。\n
+		·PYenx无需ROOT。\n
+		·PYenx没有使用任何权限，无需联网、读写存储，没有自启。\n
+		·PYenx，使用方式直观稳定。\n
+	</string>
+	<string name="topbe">
+		\n
+		·运行Python脚本：在终端模拟器输入
+	</string>
+	<string name="topaf">/pydir/py.sh 脚本地址 可选参数，运行。\n</string>
+	<string name="afbe">
+		\n
+		·进入Python交互模式：可直接在终端模拟器输入
+	</string>
+	<string name="afaf">/pydir/py.sh 可选参数，运行。\n</string>
+
+</resources>
