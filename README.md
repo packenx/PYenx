@@ -1,3 +1,2 @@
 # PYenx
-Android Python Installer
-Easy to use Python on Android
+Android Python Installer.Easy to use Python on Android.
